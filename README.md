@@ -83,5 +83,5 @@ Md. Shafiul Mondol
 📧 mdshafiulmondol02@gmail.com
 
 📸 Screenshot
-![Calculator Screenshot](assets/screenshot.png)
+![Calculator Screenshot](https://github.com/shafiulmondol/scientific-calculator-design/blob/main/Screenshot%202025-07-04%20173243.png?raw=true)
 
