@@ -83,4 +83,5 @@ Md. Shafiul Mondol
 📧 mdshafiulmondol02@gmail.com
 
 📸 Screenshot
-(Add a live screenshot image of your calculator here for best visual impact. Example below)
+![Calculator Screenshot](assets/screenshot.png)
+
