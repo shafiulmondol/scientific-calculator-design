@@ -1,62 +1,86 @@
-Scientific Calculator Design - CASIO Style
-https://Screenshot%25202025-07-04%2520173243.png
+🔢 CASIO-Style Scientific Calculator
+<!-- Replace with real image link from assets or hosted image -->
 
-Project Description
-This repository contains the design and implementation of a scientific calculator inspired by CASIO calculators. The interface replicates the classic CASIO layout with modern web technologies.
+A modern scientific calculator inspired by the classic CASIO layout. Built with HTML, CSS, and JavaScript, this calculator mimics the look and feel of real CASIO devices while adding responsive and interactive web-based features.
 
-Features
-Authentic CASIO-style calculator interface
+🌟 Features
+✅ Authentic CASIO-Inspired Interface
 
-Responsive design for various screen sizes
 
-Scientific calculation functions
 
-Memory operations (DEL, A.C.)
+🧮 Scientific Functions – Trigonometric, logarithmic, power, and more
 
-Clean, minimalist UI
+♻️ Memory Operations – DEL (Delete last character), A.C. (All Clear)
 
-Technologies Used
-HTML5
+🎨 Minimal & Clean UI – Lightweight design for ease of use
 
-CSS3 (Flexbox/Grid for layout)
+🛠️ Technologies Used
+HTML5 – Semantic and accessible structure
 
-JavaScript (for calculator logic)
+CSS3 – Flexbox/Grid for modern responsive layouts
 
-GitHub Pages (for deployment)
 
-Installation
-Clone the repository:
+
+GitHub Pages – For live deployment
+
+🚀 Live Demo
+🔗 View Calculator on GitHub Pages
+
+📂 Project Structure
+bash
+Copy
+Edit
+/scientific-calculator-design
+│
+├── index.html            # Main HTML file
+│
+├── styles/
+│   └── calculator.css    # All calculator styling
+│
+├── scripts/
+│   └── calculator.js     # Calculator logic and events
+│
+└── assets/               # Icons, screenshots, etc.
+▶️ Usage
+Open the project in any modern browser
+
+Use the number keys and operators for calculations
+
+Click on scientific keys for trigonometric, exponential, or log functions
+
+Use:
+
+DEL to remove the last entry
+
+A.C. to clear the entire input
+
+📥 Installation
+Clone this repository using Git:
 
 bash
+Copy
+Edit
 git clone https://github.com/shafiulmondol/scientific-calculator-design.git
-Open index.html in your browser
+Open index.html in your browser.
 
-Usage
-Use the number buttons for input
+🤝 Contributing
+Contributions, suggestions, and improvements are welcome!
 
-Scientific functions available in secondary modes
+Fork the repository
 
-DEL - Delete last character
+Create a new branch
 
-A.C. - All Clear (reset)
+Make your changes
 
-Project Structure
-text
-/scientific-calculator-design
-│── index.html          # Main HTML file
-│── styles/             # CSS styles
-│   └── calculator.css  # Calculator styles
-│── scripts/            # JavaScript files
-│   └── calculator.js   # Calculator logic
-└── assets/             # Images/icons
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request.
+Submit a Pull Request
 
-License
-This project is open source and available under the MIT License.
+📄 License
+This project is licensed under the MIT License – free to use, modify, and distribute.
 
-Live Demo
-View on GitHub Pages
+👨‍💻 Author
+Md. Shafiul Mondol
+🔗 GitHub
+📧 mdshafiulmondol02@gmail.com
 
-Author
-Shafiul Mondol
+📸 Screenshot
+(Add a live screenshot image of your calculator here for best visual impact. Example below)
